@@ -3,7 +3,7 @@ info:
   name: react nice resume
 envs:
   prod:
-    branch: master
+    branch: change
 routes:
   main_env: prod
   main_app: frontend
